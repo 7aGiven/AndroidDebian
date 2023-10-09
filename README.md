@@ -14,4 +14,5 @@
 
 ```sh
 pkg install debootstrap
-debootstrap --arch=arm64 bullseye bullseye_arm64 http://mirrors.tuna.tsinghua.edu.cn/debian/```
+debootstrap --arch=arm64 bullseye bullseye_arm64 http://mirrors.tuna.tsinghua.edu.cn/debian/
+```
